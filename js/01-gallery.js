@@ -1,7 +1,7 @@
 import { galleryItems } from "./gallery-items.js";
 
 console.log(galleryItems);
-const instance = "";
+
 const galleryEl = document.querySelector(".gallery");
 console.log(galleryEl);
 
