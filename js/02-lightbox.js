@@ -21,7 +21,7 @@ for (const image of galleryItems) {
 }
 
 var lightbox = new SimpleLightbox(".gallery a", {
-  captionDelay: 200,
+  captionDelay: 250,
   captionsData: "alt",
   scrollbarWidth: 20,
 });
